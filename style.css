@@ -1,0 +1,131 @@
+*{
+    margin: 0;
+  font-family: 'Courier New', Courier, monospace
+}
+.navbar{
+    height: 42.5px ;
+    background-color: #022158; 
+    text-align: center;
+}
+.head{
+    color: #E85347;
+    font-size: 18.5px;
+    font-weight: bolder;
+    margin-top: 20px;
+    margin-left: 20px;
+}
+.selection{
+    height: 103.6px;
+    
+    border: 1px  solid silver;
+    border-radius: 5px;
+    background-color: white;
+    margin-top: 30px;
+    margin-left: 20px;
+    margin-right: 20px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    
+}
+.select{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    height: 35px;
+    text-align: center;
+    border-radius: 5px;
+    border: 2px solid silver;
+    
+}
+.select:hover{
+    border-color: rgb(84, 84, 251);
+    
+}
+.alekh{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    height: 35px;
+    text-align: center;
+    border-radius: 5px;
+    border: 1px solid silver;
+}
+.dob{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    height: 35px;
+    text-align: center;
+    border-radius: 5px;
+    border: 1px solid silver;
+}
+.View{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    height: 35px;
+    width: 80px;
+    text-align: center;
+    border-radius: 5px;
+    border: 1px solid silver;
+    background-color: rgb(101, 18, 255);
+    color: white;
+}
+.Reset{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    height: 35px;
+    width: 80px;
+    text-align: center;
+    border-radius: 5px;
+    border: 1px solid silver;
+    background-color:gray;
+    color: white;
+    margin-left: 10px;
+}
+.View:hover{
+background-color: blue;
+}
+.Reset:hover{
+    background-color: darkslategrey;
+}
+#one{
+    margin-left: 20px;
+    color: blueviolet;
+    font-weight: 700;
+    font-size: 12px;
+    margin-top: 10px;
+}
+.content{
+    height: 162.6px;
+    border: 2px solid silver;
+    background-color: rgb(234, 234, 234);
+    display:flex;
+    font-size: 12px;
+    color: #E85347;
+   font-weight: bolder;
+   margin-right: 20px;
+   margin-left: 20px;
+   margin-top: 10px;
+}
+.signature{
+    border: 2px solid silver;
+    height: 130px ;
+    margin-right: 20px;
+   margin-left: 20px;
+   font-weight: 600;
+   color: darkcyan;
+}
+h3{
+    margin-left: 20px;
+    margin-top: 10px;
+    color: rgb(10, 69, 69);
+}
+.four{
+    height: 76.6px;
+    border: 2px solid silver;
+    color: blue;
+    margin-right: 20px;
+   margin-left: 20px;
+    font-size: 10px;
+    font-weight: bolder;
+}
+.five{
+    margin-left: 20px;
+    margin-top: 40px;
+    color: darkcyan;
+    font-weight: bolder;
+}
+
